@@ -1,2 +1,3 @@
 # Git Learning Assignment
-This is my first Git and GitHub project.
+This is my first Git and GitHub learning project.
+
